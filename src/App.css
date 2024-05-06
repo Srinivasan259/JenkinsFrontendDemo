@@ -36,3 +36,162 @@
     transform: rotate(360deg);
   }
 }
+
+#cards{
+  position: absolute;
+  
+}
+
+#logout{
+  margin-left: 7rem;
+}
+
+#deptUpdateForm{
+  position: absolute;
+ top: 1rem;
+ left: 2rem;
+ 
+}
+#deptAddForm{
+  position: absolute;
+ top: 8rem;
+ left: 2rem;
+ 
+}
+
+
+#formdetail{
+ position: absolute;
+ bottom: 2.5rem;
+ left: 2rem;
+ 
+}
+
+#addformdetail{
+  position: absolute;
+ bottom: 4.5rem;
+ left: 2rem;
+}
+
+#formupdate{
+  position: absolute;
+ bottom: 1.5rem;
+ left: 2rem;
+
+}
+
+#passformupdate{
+  position: absolute;
+  /* bottom: -.5rem; */
+  top: 1rem;
+  left: 2rem;
+}
+
+#navbar {
+  overflow: hidden;
+   position: fixed;
+  width: 100%; /* Full width */
+  right: 0.1rem ;
+  top: 0; /* Stay at the top */
+}
+#navbarpass{
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  height: 3.5rem;
+  right: 0.1rem ;
+  top: 0;
+}
+
+#viewbustab{
+  width: 50%;
+  margin-left: 2rem;
+  max-width: max-content;
+}
+
+#navbarindex{
+  overflow: hidden;
+   position: fixed;
+top:0;
+  width: 100%;
+  right: 0.1rem ;
+}
+#add{
+  position: absolute;
+  left: 25rem;
+}
+
+#deptadd{
+  position: absolute;
+  left: 25rem;
+}
+
+.navbar-nav { 
+  margin-left: 50rem; 
+} 
+#hometable{
+  /* margin-bottom: 8rem; */
+  position: absolute;
+  top: 6rem;
+  width: 80%;
+}
+label{
+  margin-left: -500px;
+  
+}
+#search{
+  
+  width: 300px;
+  margin-left:20rem;
+  margin-top: -0.9rem;
+  
+  position: fixed;
+} 
+
+#searchind{
+  width: 300px;
+  margin-left:20rem;
+ top: 0.7rem;
+  
+  position: fixed;
+}
+
+#deptbut{
+  margin-top: 2rem;
+  position: absolute;
+  right: 0.5rem;
+  top:1.8rem
+}
+
+#back{
+  margin-top: 2rem;
+  position: absolute;
+  left: 0.5rem;
+  top:1.8rem
+}
+
+Form.Label{
+  margin-left: -4rem;
+}
+
+#viewtable{
+  width: 8rem;
+  height: 10rem;
+}
+
+#hometable{
+  margin-left: -7rem;
+}
+#indextable {
+  font-family: Arial, Helvet ica, sans-serif;
+  border-collapse: collapse;
+   /* width: 70%; */
+  text-align: center; 
+ 
+  margin-top: 7rem;
+}
+
+.my-modal {
+ width: 50%;
+ height: 50%;
+} 
